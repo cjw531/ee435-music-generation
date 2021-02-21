@@ -1,0 +1,8 @@
+numpy
+librosa
+pandas
+tensorflow
+tensorflow_addons
+matplotlib
+imageio
+music21
