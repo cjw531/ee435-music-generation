@@ -28,8 +28,6 @@ The code was tested in [Jupyter Notebook](https://jupyter.org/) and [Google Cola
 ├── plot/ ...contains the wave plot of generated music
 │   ├── *.png ...per epoch
 │   └── *.gif ...merged the epoch (static imgs) into animated file
-├── img ...contains screenshots from rviz and rqt
-│   └── /*.png
 ├── .gitignore
 ├── README.md
 ├── music_generation.ipynb ...implementation code
